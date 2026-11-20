@@ -6,7 +6,7 @@ After a long time struggling with addiction, I have been sober for two years now
 
 ## What I'm Working On Right Now
 
-- **Python:** Following Dr. Angela Yu's *100 Days of Code: The Complete Python Pro Bootcamp* on Udemy, building small console scripts, practicing data structures, and working on clean, readable code.
+- **Python:** Following Angela Yu's *100 Days of Code: The Complete Python Pro Bootcamp* on Udemy, building small console scripts, practicing data structures, and working on clean, readable code.
 - **Git and GitHub:** Learning to use Git and GitHub properly from the start, keeping commits clear and building steady habits.
 - **Learning with Gemini:** Using Gemini as a tutor for Python, Git, and GitHub to ask questions, clear up doubts, and really understand the concepts I am picking up.
 
